@@ -1,5 +1,9 @@
 Tony Stark: No pudieron detenerlo.
+<<<<<<< HEAD
+Tony encontró el guante.
+=======
 Tony no encontró el guante 
+>>>>>>> 0433514bf17ae76c69a71a4fae25bace99c1e29f
 Steve Rogers: Yo tampoco pude.
 
 Tony Stark: Perdí al niño.
